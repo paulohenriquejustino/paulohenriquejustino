@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulo Henrique</h1>
-<h3 align="center">Sou desenvolvedor mobile apaixonado por Flutter</h3>
+<h3 align="center">Desenvolvedor Flutter</h3>
 
 
 ## 🌐 Socials:
